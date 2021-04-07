@@ -12,7 +12,7 @@
   "dependencies": {},
   "targets": {
     "index": {
-      "distDir": "./public"
+      "distDir": "./docs"
     }
   },
   "devDependencies": {
